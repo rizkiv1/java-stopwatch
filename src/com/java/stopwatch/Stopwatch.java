@@ -61,7 +61,7 @@ public class Stopwatch extends JFrame{
         Pause.addMouseListener(new MouseAdapter() {
             /**
              * {@inheritDoc}
-             *
+             * 
              * @param e
              */
             @Override
