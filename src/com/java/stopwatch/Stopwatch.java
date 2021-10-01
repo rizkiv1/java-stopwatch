@@ -8,7 +8,7 @@ import java.awt.event.ActionListener;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 //import java.util.TimerTask;
-
+ 
 public class Stopwatch extends JFrame{
     private JPanel MainPane;
     private JLabel Title;
@@ -61,7 +61,7 @@ public class Stopwatch extends JFrame{
         Pause.addMouseListener(new MouseAdapter() {
             /**
              * {@inheritDoc}
-             *
+             * 
              * @param e
              */
             @Override
